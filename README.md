@@ -1,11 +1,11 @@
 <div align="center">
 
-<img alt="UST-license" src="https://img.shields.io/badge/Open_source-MIT-red.svg?logo=git&logoColor=blue"/>
+<img alt="UST-license" src="https://img.shields.io/badge/Open_source-MIT-red.svg?logo=git&logoColor=green"/>
 <img src="https://img.shields.io/github/last-commit/Elcapitanoe/Upload-Speed-Test.svg?logo=Sublime+Text&logoColor=blue&label=Active"/>
-<img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/Elcapitanoe/Upload-Speed-Test?color=blue">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Elcapitanoe/Upload-Speed-Test?color=blue">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Elcapitanoe/Upload-Speed-Test?color=blue">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FElcapitanoe%2FUpload-Speed-Test&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=blue&title=Views&edge_flat=false"/>
+<img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/Elcapitanoe/Upload-Speed-Test?color=green">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Elcapitanoe/Upload-Speed-Test?color=green">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Elcapitanoe/Upload-Speed-Test?color=green">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FElcapitanoe%2FUpload-Speed-Test&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=green&title=Views&edge_flat=false"/>
 
 </div>
 
