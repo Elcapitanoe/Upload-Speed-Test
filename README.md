@@ -9,7 +9,7 @@
 
 </div>
 
-**Upload-Speed-Test** is a JavaScript-based upload speed test that provides detailed information about the upload speed and file hash. This project is designed to work seamlessly with **Cloudflare Workers**.
+**Upload Speed Test** is a JavaScript-based upload speed test that provides detailed information about the upload speed and file hash. This project is designed to work seamlessly with **Cloudflare Workers**.
 
 ## Demo
 [https://uploadtest.pambi.workers.dev](https://uploadtest.pambi.workers.dev)
