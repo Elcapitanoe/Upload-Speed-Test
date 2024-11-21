@@ -36,8 +36,6 @@ Once the test is complete, the following information will be displayed:
 - Upload Speed: `XX Mbps`
 - File Hash: `XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX`
 
-## Contributing
-If you'd like to contribute to this project, feel free to fork the repository, create a branch, and submit a pull request. Contributions are always welcome!
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
