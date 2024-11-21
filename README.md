@@ -14,8 +14,8 @@
 A JavaScript-based upload speed test that provides detailed information about the upload speed and file hash. This project is designed to work seamlessly with **Cloudflare Workers**.
 
 ## Demo
-[https://uploadtest.pambi.workers.dev](https://uploadtest.pambi.workers.dev)
-
+Light Theme : [https://uploadtest.pambi.workers.dev](https://uploadtest.pambi.workers.dev)
+Dark Theme : [https://uploadtest-dark.pambi.workers.dev](https://uploadtest-dark.pambi.workers.dev)
 
 ## Features
 - Measures upload speed in real-time
