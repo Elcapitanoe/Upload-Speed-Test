@@ -1,0 +1,48 @@
+ body { 
+            background: linear-gradient(135deg, #121212 0%, #1e1e1e 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            color: #e0e0e0;
+        }
+        .upload-container {
+            background: rgba(45,45,45,0.9);
+            border-radius: 15px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+            transition: all 0.3s ease;
+            border: 1px solid #333;
+        }
+        .upload-container:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 35px rgba(0,0,0,0.4);
+        }
+        #progressBar {
+            height: 5px;
+            transition: width 0.5s ease;
+        }
+        .hash-details {
+            word-break: break-all;
+            color: #b0b0b0;
+        }
+        .form-control {
+            background-color: #2c2c2c;
+            color: #e0e0e0;
+            border-color: #454545;
+        }
+        .card {
+            background-color: #1a1a1a !important;
+            color: #c0c0c0;
+        }
+        .text-primary {
+            color: #4da6ff !important;
+        }
+        code {
+            color: #4da6ff;
+            background-color: #2c2c2c;
+            padding: 2px 4px;
+            border-radius: 4px;
+        }
+        /* Fix for upload stats visibility */
+        #uploadStats {
+            color: #e0e0e0 !important;
+        }
