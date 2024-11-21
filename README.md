@@ -10,7 +10,7 @@
 </div>
 
 
-## Upload Speed Test
+## Upload Speed Test with File Hash
 A JavaScript-based upload speed test that provides detailed information about the upload speed and file hash. This project is designed to work seamlessly with **Cloudflare Workers**.
 
 ## Demo
